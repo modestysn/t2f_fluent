@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_module">
+    <sys_module action="INSERT_OR_UPDATE">
+        <content><![CDATA[import { gs } from '@servicenow/glide'
+
+export function showStateUpdate(current, previous) {
+    const currentState = current.getValue('state')
+    const previousState = previous.getValue('state')
+
+    gs.addInfoMessage(`state updated from "${previousState}" to "${currentState}"`)
+}]]></content>
+        <external_source>false</external_source>
+        <path>sn_t2f_fluent/@servicenow/t-2-f-fluent/0.0.1/src/server/script.js</path>
+        <sys_class_name>sys_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:23:52</sys_created_on>
+        <sys_id>a63ab49ea3b302104c1e3702f31e61be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_t2f_fluent/@servicenow/t-2-f-fluent/0.0.1/src/server/script.js</sys_name>
+        <sys_package display_value="t2f_fluent" source="sn_t2f_fluent">7c6765515eb8423dad533bd2775789f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="t2f_fluent">7c6765515eb8423dad533bd2775789f5</sys_scope>
+        <sys_update_name>sys_module_a63ab49ea3b302104c1e3702f31e61be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:23:52</sys_updated_on>
+    </sys_module>
+</record_update>

@@ -1,0 +1,15 @@
+{
+  "deploy.timing.lifecycle": {
+    "create_to_deploy_time": "1722536445566"
+  },
+  "deploy.count": {
+    "create_count": 1
+  },
+  "deploy.file": {
+    "third_party_dep_count": 0,
+    "module_file_count": 2,
+    "metadata_file_count": 15,
+    "modified_file_count": 0
+  },
+  "deploy.dependencies": []
+}

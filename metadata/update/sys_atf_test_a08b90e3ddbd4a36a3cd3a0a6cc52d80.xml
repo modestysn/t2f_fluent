@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Open a new incident form, fill in short description field with "test description from text2fluent", submit the form, then validate the short description field value</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <fail_on_server_error>true</fail_on_server_error>
+        <name>Validate text field in incident form</name>
+        <parameters/>
+        <remember/>
+        <sn_atf_tg_generated>false</sn_atf_tg_generated>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:41</sys_created_on>
+        <sys_id>a08b90e3ddbd4a36a3cd3a0a6cc52d80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Validate text field in incident form</sys_name>
+        <sys_package display_value="t2f_fluent" source="sn_t2f_fluent">7c6765515eb8423dad533bd2775789f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="t2f_fluent">7c6765515eb8423dad533bd2775789f5</sys_scope>
+        <sys_update_name>sys_atf_test_a08b90e3ddbd4a36a3cd3a0a6cc52d80</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:41</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=a08b90e3ddbd4a36a3cd3a0a6cc52d80"/>
+</record_update>

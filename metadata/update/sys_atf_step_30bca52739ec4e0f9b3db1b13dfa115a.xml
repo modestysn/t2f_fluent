@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Set field values on a form.</description>
+        <display_name>Set Field Values</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>2</order>
+        <step_config display_value="Set Field Values">fcae4a935332120028bc29cac2dc340e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:40</sys_created_on>
+        <sys_id>30bca52739ec4e0f9b3db1b13dfa115a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Set Field Values</sys_name>
+        <sys_package display_value="t2f_fluent" source="sn_t2f_fluent">7c6765515eb8423dad533bd2775789f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="t2f_fluent">7c6765515eb8423dad533bd2775789f5</sys_scope>
+        <sys_update_name>sys_atf_step_30bca52739ec4e0f9b3db1b13dfa115a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:40</sys_updated_on>
+        <table>incident</table>
+        <test display_value="Validate text field in incident form">a08b90e3ddbd4a36a3cd3a0a6cc52d80</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=30bca52739ec4e0f9b3db1b13dfa115a"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>30bca52739ec4e0f9b3db1b13dfa115a</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:40</sys_created_on>
+        <sys_id>263f9b43706e4b9f9b79c7a410429e34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:40</sys_updated_on>
+        <value>short_description=test description from text2fluent</value>
+        <variable display_value="Field values">b3dba2465320220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>30bca52739ec4e0f9b3db1b13dfa115a</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:40</sys_created_on>
+        <sys_id>3f0a5a4619a842f0b9b0c81b879aa6c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:40</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">946f3c1a0f23330072e6452bc4767eda</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>30bca52739ec4e0f9b3db1b13dfa115a</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:40</sys_created_on>
+        <sys_id>4e96938bd391430d9080cbb7e8f058df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:40</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="Table">424ca6465320220002c6435723dc34b5</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_fcae4a935332120028bc29cac2dc340e^id=30bca52739ec4e0f9b3db1b13dfa115a"/>
+</record_update>

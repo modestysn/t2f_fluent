@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Submits the current form.</description>
+        <display_name>Submit a Form</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <step_config display_value="Submit a Form">be8e0a935332120028bc29cac2dc34e4</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:41</sys_created_on>
+        <sys_id>b66b427a3d82443e9f90ba7668ff3e8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Submit a Form</sys_name>
+        <sys_package display_value="t2f_fluent" source="sn_t2f_fluent">7c6765515eb8423dad533bd2775789f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="t2f_fluent">7c6765515eb8423dad533bd2775789f5</sys_scope>
+        <sys_update_name>sys_atf_step_b66b427a3d82443e9f90ba7668ff3e8d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:41</sys_updated_on>
+        <table/>
+        <test display_value="Validate text field in incident form">a08b90e3ddbd4a36a3cd3a0a6cc52d80</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=b66b427a3d82443e9f90ba7668ff3e8d"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b66b427a3d82443e9f90ba7668ff3e8d</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:41</sys_created_on>
+        <sys_id>06f1d64a95774181bf998a0f8b997851</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:41</sys_updated_on>
+        <value>form_submitted_to_server</value>
+        <variable display_value="Assert type">c796d40497302200abe4bb7503ac4ad8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>b66b427a3d82443e9f90ba7668ff3e8d</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:41</sys_created_on>
+        <sys_id>1bebe156fb77462bb1703b9979a6c1d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:41</sys_updated_on>
+        <value>standard_ui</value>
+        <variable display_value="Form UI">ae8b91c9ffa333008d3f5d9ad53bf1ba</variable>
+    </sys_variable_value>
+</record_update>

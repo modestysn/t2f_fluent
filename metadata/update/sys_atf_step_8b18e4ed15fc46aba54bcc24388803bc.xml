@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from/>
+        <description>Opens an existing record in this table</description>
+        <display_name>Open an Existing Record</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>4</order>
+        <step_config display_value="Open an Existing Record">5f2e0e535332120028bc29cac2dc34d3</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:41</sys_created_on>
+        <sys_id>8b18e4ed15fc46aba54bcc24388803bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open an Existing Record</sys_name>
+        <sys_package display_value="t2f_fluent" source="sn_t2f_fluent">7c6765515eb8423dad533bd2775789f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="t2f_fluent">7c6765515eb8423dad533bd2775789f5</sys_scope>
+        <sys_update_name>sys_atf_step_8b18e4ed15fc46aba54bcc24388803bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:41</sys_updated_on>
+        <table>incident</table>
+        <test display_value="Validate text field in incident form">a08b90e3ddbd4a36a3cd3a0a6cc52d80</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=8b18e4ed15fc46aba54bcc24388803bc"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8b18e4ed15fc46aba54bcc24388803bc</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:41</sys_created_on>
+        <sys_id>97bba093fc664195aa05c16f484fd567</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:41</sys_updated_on>
+        <value>incident</value>
+        <variable display_value="Table">b124164e53a0220002c6435723dc34c5</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8b18e4ed15fc46aba54bcc24388803bc</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:41</sys_created_on>
+        <sys_id>a79559788d054e59ace11e740cfa8e05</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:41</sys_updated_on>
+        <value/>
+        <variable display_value="View">6e55da4e53a0220002c6435723dc34a0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8b18e4ed15fc46aba54bcc24388803bc</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:41</sys_created_on>
+        <sys_id>b2d14e3627d84374b9d856ab3c8f6012</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:41</sys_updated_on>
+        <value>aa881cad73c4301045216238edf6a716</value>
+        <variable display_value="Form UI">17d732a9c7a333005e5c45b881c26007</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8b18e4ed15fc46aba54bcc24388803bc</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:41</sys_created_on>
+        <sys_id>c0a1a3863aa24a7aaa21b4e5fbf17fe1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:41</sys_updated_on>
+        <value/>
+        <variable display_value="Record">ad351a4e53a0220002c6435723dc34f0</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8b18e4ed15fc46aba54bcc24388803bc</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:41</sys_created_on>
+        <sys_id>dfb1a73cddac4c029739f470d7d01db5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:41</sys_updated_on>
+        <value>record</value>
+        <variable display_value="Record path">74d6e7a0a3023110571967d1361e616b</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>8b18e4ed15fc46aba54bcc24388803bc</document_key>
+        <order/>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:41</sys_created_on>
+        <sys_id>ea72a0a5167b4c638abb4560ea4dd033</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:41</sys_updated_on>
+        <value>0</value>
+        <variable display_value="Selected Tab Index">c2eb56e853422110248dddeeff7b1261</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=8b18e4ed15fc46aba54bcc24388803bc"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record_id</field>
+        <id>8b18e4ed15fc46aba54bcc24388803bc</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-05 18:27:41</sys_created_on>
+        <sys_id>51cde3264e9a408d9527644626428ffb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-05 18:27:41</sys_updated_on>
+        <table>var__m_atf_input_variable_5f2e0e535332120028bc29cac2dc34d3</table>
+        <value>{{step['b66b427a3d82443e9f90ba7668ff3e8d'].record_id}}</value>
+    </sys_element_mapping>
+</record_update>
