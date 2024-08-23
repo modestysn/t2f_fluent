@@ -213,10 +213,6 @@ declare global {
                         table: 'sys_atf_step'
                         id: '8f1dd685f4a2409b9e502177405cb801'
                     }
-                    sys_variable_value_test_str_id_3_ad351a4e53a0220002c6435723dc34f0: {
-                        table: 'sys_variable_value'
-                        id: '4cc714860c9c452583d5dd7d4d3ec57d'
-                    }
                     sys_element_mapping_test_str_id_3_ad351a4e53a0220002c6435723dc34f0: {
                         table: 'sys_element_mapping'
                         id: '1a7e5d21ad4a416d832e5f54a1f20336'
@@ -232,10 +228,6 @@ declare global {
                     sys_variable_value_test_str_id_7_523c79985f30220012b44adb7f46663a: {
                         table: 'sys_variable_value'
                         id: '361de08b8fc74e8899b21544cdf11ebe'
-                    }
-                    sys_variable_value_test_str_id_1_cec002650b3222000b7da95e93673aae: {
-                        table: 'sys_variable_value'
-                        id: '89ac7f2a86c44a9ba61eb0e08ef2954a'
                     }
                     sys_variable_value_test_str_id_1_81e042650b3222000b7da95e93673aa2: {
                         table: 'sys_variable_value'
@@ -257,10 +249,6 @@ declare global {
                         table: 'sys_atf_test'
                         id: 'a1900728bffb47ee8c3a96b773f86d5b'
                     }
-                    sys_variable_value_test_str_id_1_85899be1c3323300eaac11fe81d3aea1: {
-                        table: 'sys_variable_value'
-                        id: 'bea03bb8b3434c148b0ff31a03f5c934'
-                    }
                     sys_variable_value_test_str_id_2_e274d271c3623300eaac11fe81d3aebe: {
                         table: 'sys_variable_value'
                         id: 'a72d0ddaf984407385b3c2a81ee92510'
@@ -277,18 +265,6 @@ declare global {
                         table: 'sys_variable_value'
                         id: 'ff22fa95e4fc4cd0808010cc93aa7ea1'
                     }
-                    sys_variable_value_test_str_id_1_839e29d577332300e46abe41a9106134: {
-                        table: 'sys_variable_value'
-                        id: '7af6501aabc14878a7370be3fa216df3'
-                    }
-                    sys_variable_value_test_str_id_2_38a5351b23101300ab65ff5e17bf65fa: {
-                        table: 'sys_variable_value'
-                        id: '6df80cb8663a4079b1c820170fd5c35a'
-                    }
-                    sys_variable_value_test_str_id_2_ee6aa11723101300ab65ff5e17bf65db: {
-                        table: 'sys_variable_value'
-                        id: 'f401db83e21248a4bd154c9469c26dc0'
-                    }
                     sys_variable_value_test_str_id_2_a266791b23101300ab65ff5e17bf654b: {
                         table: 'sys_variable_value'
                         id: 'ca079fc9ad8143478b6369edcebe3275'
@@ -296,54 +272,6 @@ declare global {
                     sys_variable_value_test_str_id_2_a38ae181e7020300b2888f49c2f6a92e: {
                         table: 'sys_variable_value'
                         id: '25ca2d1b31ca45dfb7f133668c14ce9f'
-                    }
-                    sys_variable_value_test_str_id_3_5c297551e7020300b2888f49c2f6a933: {
-                        table: 'sys_variable_value'
-                        id: '6445445513d249b9bbb3e07f4e7cc2db'
-                    }
-                    sys_variable_value_test_str_id_3_b3dba2465320220002c6435723dc34f0: {
-                        table: 'sys_variable_value'
-                        id: '6225c25cd7fb4b7e8d07e29939b729ab'
-                    }
-                    sys_variable_value_test_str_id_1_586e2c4253e0220002c6435723dc3415: {
-                        table: 'sys_variable_value'
-                        id: 'c7d8e790ec5640e6a7550b147e008245'
-                    }
-                    sys_variable_value_test_str_id_1_ebcd20170b10230083332dc3b6673aa5: {
-                        table: 'sys_variable_value'
-                        id: '56f5be07b35149eba8e6270f65e8de72'
-                    }
-                    sys_variable_value_test_str_id_2_6f5d6cd30b10230083332dc3b6673a78: {
-                        table: 'sys_variable_value'
-                        id: 'e0637ec4add442b38939818a6f74b676'
-                    }
-                    sys_variable_value_test_str_id_2_ebcd20170b10230083332dc3b6673aa5: {
-                        table: 'sys_variable_value'
-                        id: 'cec05c2cac8d41f1b026d2aa852afa21'
-                    }
-                    sys_variable_value_test_str_id_3_523c79985f30220012b44adb7f46663a: {
-                        table: 'sys_variable_value'
-                        id: '592e5df7a9c241f3a027d3b61fbb51f7'
-                    }
-                    sys_variable_value_test_str_id_4_535064a123630300ab65ff5e17bf65d3: {
-                        table: 'sys_variable_value'
-                        id: '77971f655b10479d87ee51276ddeb149'
-                    }
-                    sys_variable_value_test_str_id_4_dee0e8a123630300ab65ff5e17bf657d: {
-                        table: 'sys_variable_value'
-                        id: '6c2338a87a374756b7eac05c588452e2'
-                    }
-                    sys_variable_value_test_str_id_4_d670a4a123630300ab65ff5e17bf65f4: {
-                        table: 'sys_variable_value'
-                        id: 'd292e5cee1674b17b14c9d54904c0bf1'
-                    }
-                    sys_variable_value_test_str_id_5_2a3e91c7437131106580a9bb1cb8f283: {
-                        table: 'sys_variable_value'
-                        id: 'e2f5327aff104dd3abd41b2d8602ad5e'
-                    }
-                    sys_variable_value_test_str_id_5_d13e91c7437131106580a9bb1cb8f22d: {
-                        table: 'sys_variable_value'
-                        id: '89303575378b4749ba29831149237991'
                     }
                     sys_variable_value_test_str_id_5_692ed987437131106580a9bb1cb8f2bc: {
                         table: 'sys_variable_value'
@@ -353,9 +281,131 @@ declare global {
                         table: 'sys_variable_value'
                         id: 'ca979e855f04481ba5cd34f6e3ac8193'
                     }
+                    sys_atf_step_test_hr_request_1: {
+                        table: 'sys_atf_step'
+                        id: '7d3ab4bd44e241b584e3b7550e14d339'
+                    }
+                    sys_atf_step_test_hr_request_2: {
+                        table: 'sys_atf_step'
+                        id: 'c970ea142b124528b7c30b066c8506b3'
+                    }
+                    sys_atf_step_test_hr_request_3: {
+                        table: 'sys_atf_step'
+                        id: '66b3b359519346828cb34075a70c5234'
+                    }
+                    test_hr_request: {
+                        table: 'sys_atf_test'
+                        id: '594aec365a974a30a1dfa106298a5b1d'
+                    }
+                    sys_variable_value_test_hr_request_1_a9145b43c300320076173b0ac3d3ae0e: {
+                        table: 'sys_variable_value'
+                        id: 'c290dde37c394c8485e069a97eaea553'
+                    }
+                    sys_variable_value_test_hr_request_2_571e6a25c3b2220076173b0ac3d3ae46: {
+                        table: 'sys_variable_value'
+                        id: '2a50be1e078b45c19c490fa25b75cd3a'
+                    }
+                    sys_variable_value_test_hr_request_2_346eea25c3b2220076173b0ac3d3ae8b: {
+                        table: 'sys_variable_value'
+                        id: '95b333f783794b4f8fa748d81206b679'
+                    }
+                    sys_variable_value_test_hr_request_3_ffaf5469c332220076173b0ac3d3aea9: {
+                        table: 'sys_variable_value'
+                        id: 'bc8fa44b5c6a49c28880190ae2af7380'
+                    }
+                    sys_variable_value_test_str_id_1_b0d64ce1c332220076173b0ac3d3ae95: {
+                        table: 'sys_variable_value'
+                        id: 'edbe336a80e54adf91db232aefc06816'
+                    }
+                    sys_variable_value_test_str_id_1_8570e0e33756030064a52f3c8e41f16c: {
+                        table: 'sys_variable_value'
+                        id: 'fc2ff52070b94e5790c25ee026f9bc94'
+                    }
+                    sys_variable_value_test_str_id_1_90749dd73702030064a52f3c8e41f12d: {
+                        table: 'sys_variable_value'
+                        id: 'ad67df6d4cf944cd9d6872df099cca42'
+                    }
+                    sys_variable_value_test_str_id_1_4a3319d73702030064a52f3c8e41f1a9: {
+                        table: 'sys_variable_value'
+                        id: '282b733f2db34d518056801aae4ae681'
+                    }
+                    sys_variable_value_test_str_id_1_932d14a33756030064a52f3c8e41f120: {
+                        table: 'sys_variable_value'
+                        id: '60934536e88a459fb67ea7e6d6d80c57'
+                    }
+                    sys_variable_value_test_str_id_2_3c267f6bc3d7220076173b0ac3d3ae56: {
+                        table: 'sys_variable_value'
+                        id: '627d9d4fa2de4b158c3941c9dca667ba'
+                    }
+                    sys_variable_value_test_str_id_2_bc43e004c76733005e5c45b881c26046: {
+                        table: 'sys_variable_value'
+                        id: '8220092067234004bbb6cf6e8e57846f'
+                    }
+                    sys_variable_value_test_str_id_2_56e6bee65320220002c6435723dc34b9: {
+                        table: 'sys_variable_value'
+                        id: '2aa63ba42c4740dabd7f1ea99b56acb7'
+                    }
+                    sys_variable_value_test_str_id_2_6619c7aa5320220002c6435723dc34e2: {
+                        table: 'sys_variable_value'
+                        id: 'aeda91ccd2144ab6a0e5aa7f0c7bc6ef'
+                    }
+                    sys_variable_value_test_str_id_3_939234f2c310320076173b0ac3d3ae14: {
+                        table: 'sys_variable_value'
+                        id: '7c457278307e45c8ae912c0ec73d2fe8'
+                    }
+                    sys_variable_value_test_str_id_3_bc43e004c76733005e5c45b881c26046: {
+                        table: 'sys_variable_value'
+                        id: '23de883c684d4cf5b35aa758819e5a14'
+                    }
+                    sys_variable_value_test_str_id_3_56e6bee65320220002c6435723dc34b9: {
+                        table: 'sys_variable_value'
+                        id: '95f4fa7c9c8f4ae5aec97185970817f8'
+                    }
+                    sys_variable_value_test_str_id_3_6619c7aa5320220002c6435723dc34e2: {
+                        table: 'sys_variable_value'
+                        id: 'a69248b7c9ac4b8dbf77c1e494f9e147'
+                    }
+                    sys_variable_value_test_str_id_4_b124164e53a0220002c6435723dc34c5: {
+                        table: 'sys_variable_value'
+                        id: 'a6f00c837c594174993cdbdee2302ffc'
+                    }
+                    sys_variable_value_test_str_id_4_17d732a9c7a333005e5c45b881c26007: {
+                        table: 'sys_variable_value'
+                        id: 'acdbffea30eb4f93996880b5fb9584aa'
+                    }
+                    sys_variable_value_test_str_id_4_74d6e7a0a3023110571967d1361e616b: {
+                        table: 'sys_variable_value'
+                        id: '4addd407876f44f594a1ed28e97a8e18'
+                    }
+                    sys_variable_value_test_str_id_5_ae8b91c9ffa333008d3f5d9ad53bf1ba: {
+                        table: 'sys_variable_value'
+                        id: 'c5cac169bb5c4370a6a7081b629c7d25'
+                    }
+                    sys_variable_value_test_str_id_5_c796d40497302200abe4bb7503ac4ad8: {
+                        table: 'sys_variable_value'
+                        id: 'fb71c5bf91df43cf97e0e88b473dfc72'
+                    }
                 }
                 deleted: {
                     sys_variable_value: [
+                        '4cc714860c9c452583d5dd7d4d3ec57d',
+                        '89ac7f2a86c44a9ba61eb0e08ef2954a',
+                        'bea03bb8b3434c148b0ff31a03f5c934',
+                        '7af6501aabc14878a7370be3fa216df3',
+                        '6df80cb8663a4079b1c820170fd5c35a',
+                        'f401db83e21248a4bd154c9469c26dc0',
+                        '6445445513d249b9bbb3e07f4e7cc2db',
+                        '6225c25cd7fb4b7e8d07e29939b729ab',
+                        'c7d8e790ec5640e6a7550b147e008245',
+                        '56f5be07b35149eba8e6270f65e8de72',
+                        'e0637ec4add442b38939818a6f74b676',
+                        'cec05c2cac8d41f1b026d2aa852afa21',
+                        '592e5df7a9c241f3a027d3b61fbb51f7',
+                        '77971f655b10479d87ee51276ddeb149',
+                        '6c2338a87a374756b7eac05c588452e2',
+                        'd292e5cee1674b17b14c9d54904c0bf1',
+                        'e2f5327aff104dd3abd41b2d8602ad5e',
+                        '89303575378b4749ba29831149237991',
                         'f278cd12469e44e8a0abdba0f2872cfd',
                         'fdddc1346ff14ec3aed02db0d9af6b8c',
                         '1dc6253d40e5403eabda17b4e1e962bd',
