@@ -165,9 +165,278 @@ declare global {
                         table: 'sys_variable_value'
                         id: '44ec45540b5046a58cc340c28bcad308'
                     }
+                    sys_atf_step_test_str_id_1: {
+                        table: 'sys_atf_step'
+                        id: 'e2d333df61644ff1854c96a595990d86'
+                    }
+                    sys_atf_step_test_str_id_2: {
+                        table: 'sys_atf_step'
+                        id: '1050f2b722bd48a4a28d05d531c6f625'
+                    }
+                    sys_atf_step_test_str_id_3: {
+                        table: 'sys_atf_step'
+                        id: '908ffc1c3947417f887f1ae44227b2f2'
+                    }
+                    sys_atf_step_test_str_id_4: {
+                        table: 'sys_atf_step'
+                        id: '2f0cec7712dd46eba146266a84f828aa'
+                    }
+                    test_str_id: {
+                        table: 'sys_atf_test'
+                        id: 'e509b5e3e7454328892c2bdbc5f7cdfa'
+                    }
+                    sys_atf_step_test_str_id_5: {
+                        table: 'sys_atf_step'
+                        id: '5c87fa7215484cffa25900c168d4043d'
+                    }
+                    sys_variable_value_test_str_id_4_ad351a4e53a0220002c6435723dc34f0: {
+                        table: 'sys_variable_value'
+                        id: 'cdd16ad5d93f4ec59c1908c8ee54b958'
+                    }
+                    sys_element_mapping_test_str_id_4_ad351a4e53a0220002c6435723dc34f0: {
+                        table: 'sys_element_mapping'
+                        id: '0b63bc015a6e4abdb9b3ac7cae7179a0'
+                    }
+                    sys_variable_value_test_str_id_4_6e55da4e53a0220002c6435723dc34a0: {
+                        table: 'sys_variable_value'
+                        id: '38d41a68780b4681a7146b26601df367'
+                    }
+                    sys_variable_value_test_str_id_4_c2eb56e853422110248dddeeff7b1261: {
+                        table: 'sys_variable_value'
+                        id: '103827fe6d1b43c6965143dcee2f5478'
+                    }
+                    sys_atf_step_test_str_id_6: {
+                        table: 'sys_atf_step'
+                        id: '43853d78b20e4e37905f953e75b840b8'
+                    }
+                    sys_atf_step_test_str_id_7: {
+                        table: 'sys_atf_step'
+                        id: '8f1dd685f4a2409b9e502177405cb801'
+                    }
+                    sys_variable_value_test_str_id_3_ad351a4e53a0220002c6435723dc34f0: {
+                        table: 'sys_variable_value'
+                        id: '4cc714860c9c452583d5dd7d4d3ec57d'
+                    }
+                    sys_element_mapping_test_str_id_3_ad351a4e53a0220002c6435723dc34f0: {
+                        table: 'sys_element_mapping'
+                        id: '1a7e5d21ad4a416d832e5f54a1f20336'
+                    }
+                    sys_variable_value_test_str_id_3_6e55da4e53a0220002c6435723dc34a0: {
+                        table: 'sys_variable_value'
+                        id: '51118ffae42747c3a8d45066c5d47ce2'
+                    }
+                    sys_variable_value_test_str_id_3_c2eb56e853422110248dddeeff7b1261: {
+                        table: 'sys_variable_value'
+                        id: '2dae413dab384fbe9a6bea7d3795aeff'
+                    }
+                    sys_variable_value_test_str_id_7_523c79985f30220012b44adb7f46663a: {
+                        table: 'sys_variable_value'
+                        id: '361de08b8fc74e8899b21544cdf11ebe'
+                    }
+                    sys_variable_value_test_str_id_1_cec002650b3222000b7da95e93673aae: {
+                        table: 'sys_variable_value'
+                        id: '89ac7f2a86c44a9ba61eb0e08ef2954a'
+                    }
+                    sys_variable_value_test_str_id_1_81e042650b3222000b7da95e93673aa2: {
+                        table: 'sys_variable_value'
+                        id: '0d8fc1e6d4024683b88db5d711cc506b'
+                    }
+                    sys_variable_value_test_str_id_6_480b3b819f132200ef4afa7dc67fcf33: {
+                        table: 'sys_variable_value'
+                        id: '907aebeb14f84fc69346f48a91442a18'
+                    }
+                    sys_variable_value_test_str_id_6_ddab3f819f132200ef4afa7dc67fcf2b: {
+                        table: 'sys_variable_value'
+                        id: '2f53ee87703841cfa67a1121f3ac0d68'
+                    }
+                    sys_atf_step_test_1234567890abcdef_1: {
+                        table: 'sys_atf_step'
+                        id: 'ca0857fa633e439f9d5d8359954def4e'
+                    }
+                    test_1234567890abcdef: {
+                        table: 'sys_atf_test'
+                        id: 'a1900728bffb47ee8c3a96b773f86d5b'
+                    }
+                    sys_variable_value_test_str_id_1_85899be1c3323300eaac11fe81d3aea1: {
+                        table: 'sys_variable_value'
+                        id: 'bea03bb8b3434c148b0ff31a03f5c934'
+                    }
+                    sys_variable_value_test_str_id_2_e274d271c3623300eaac11fe81d3aebe: {
+                        table: 'sys_variable_value'
+                        id: 'a72d0ddaf984407385b3c2a81ee92510'
+                    }
+                    sys_variable_value_test_1234567890abcdef_1_13a08fa0c3033300eaac11fe81d3aecf: {
+                        table: 'sys_variable_value'
+                        id: 'f9f16efcbfae464885b6752653147e7a'
+                    }
+                    sys_variable_value_test_1234567890abcdef_1_92c42ff0c3033300eaac11fe81d3aec0: {
+                        table: 'sys_variable_value'
+                        id: 'bfe5f0b0a5374d608c56abbf1c882139'
+                    }
+                    sys_variable_value_test_1234567890abcdef_1_d30577f4c3033300eaac11fe81d3ae3e: {
+                        table: 'sys_variable_value'
+                        id: 'ff22fa95e4fc4cd0808010cc93aa7ea1'
+                    }
+                    sys_variable_value_test_str_id_1_839e29d577332300e46abe41a9106134: {
+                        table: 'sys_variable_value'
+                        id: '7af6501aabc14878a7370be3fa216df3'
+                    }
+                    sys_variable_value_test_str_id_2_38a5351b23101300ab65ff5e17bf65fa: {
+                        table: 'sys_variable_value'
+                        id: '6df80cb8663a4079b1c820170fd5c35a'
+                    }
+                    sys_variable_value_test_str_id_2_ee6aa11723101300ab65ff5e17bf65db: {
+                        table: 'sys_variable_value'
+                        id: 'f401db83e21248a4bd154c9469c26dc0'
+                    }
+                    sys_variable_value_test_str_id_2_a266791b23101300ab65ff5e17bf654b: {
+                        table: 'sys_variable_value'
+                        id: 'ca079fc9ad8143478b6369edcebe3275'
+                    }
+                    sys_variable_value_test_str_id_2_a38ae181e7020300b2888f49c2f6a92e: {
+                        table: 'sys_variable_value'
+                        id: '25ca2d1b31ca45dfb7f133668c14ce9f'
+                    }
+                    sys_variable_value_test_str_id_3_5c297551e7020300b2888f49c2f6a933: {
+                        table: 'sys_variable_value'
+                        id: '6445445513d249b9bbb3e07f4e7cc2db'
+                    }
+                    sys_variable_value_test_str_id_3_b3dba2465320220002c6435723dc34f0: {
+                        table: 'sys_variable_value'
+                        id: '6225c25cd7fb4b7e8d07e29939b729ab'
+                    }
+                    sys_variable_value_test_str_id_1_586e2c4253e0220002c6435723dc3415: {
+                        table: 'sys_variable_value'
+                        id: 'c7d8e790ec5640e6a7550b147e008245'
+                    }
+                    sys_variable_value_test_str_id_1_ebcd20170b10230083332dc3b6673aa5: {
+                        table: 'sys_variable_value'
+                        id: '56f5be07b35149eba8e6270f65e8de72'
+                    }
+                    sys_variable_value_test_str_id_2_6f5d6cd30b10230083332dc3b6673a78: {
+                        table: 'sys_variable_value'
+                        id: 'e0637ec4add442b38939818a6f74b676'
+                    }
+                    sys_variable_value_test_str_id_2_ebcd20170b10230083332dc3b6673aa5: {
+                        table: 'sys_variable_value'
+                        id: 'cec05c2cac8d41f1b026d2aa852afa21'
+                    }
+                    sys_variable_value_test_str_id_3_523c79985f30220012b44adb7f46663a: {
+                        table: 'sys_variable_value'
+                        id: '592e5df7a9c241f3a027d3b61fbb51f7'
+                    }
+                    sys_variable_value_test_str_id_4_535064a123630300ab65ff5e17bf65d3: {
+                        table: 'sys_variable_value'
+                        id: '77971f655b10479d87ee51276ddeb149'
+                    }
+                    sys_variable_value_test_str_id_4_dee0e8a123630300ab65ff5e17bf657d: {
+                        table: 'sys_variable_value'
+                        id: '6c2338a87a374756b7eac05c588452e2'
+                    }
+                    sys_variable_value_test_str_id_4_d670a4a123630300ab65ff5e17bf65f4: {
+                        table: 'sys_variable_value'
+                        id: 'd292e5cee1674b17b14c9d54904c0bf1'
+                    }
+                    sys_variable_value_test_str_id_5_2a3e91c7437131106580a9bb1cb8f283: {
+                        table: 'sys_variable_value'
+                        id: 'e2f5327aff104dd3abd41b2d8602ad5e'
+                    }
+                    sys_variable_value_test_str_id_5_d13e91c7437131106580a9bb1cb8f22d: {
+                        table: 'sys_variable_value'
+                        id: '89303575378b4749ba29831149237991'
+                    }
+                    sys_variable_value_test_str_id_5_692ed987437131106580a9bb1cb8f2bc: {
+                        table: 'sys_variable_value'
+                        id: '40b16f1643054e5c9e3c8b157af7dc19'
+                    }
+                    sys_variable_value_test_str_id_5_c03e51c7437131106580a9bb1cb8f2bd: {
+                        table: 'sys_variable_value'
+                        id: 'ca979e855f04481ba5cd34f6e3ac8193'
+                    }
                 }
                 deleted: {
                     sys_variable_value: [
+                        'f278cd12469e44e8a0abdba0f2872cfd',
+                        'fdddc1346ff14ec3aed02db0d9af6b8c',
+                        '1dc6253d40e5403eabda17b4e1e962bd',
+                        'e953c0c6827249adb793e63daf572234',
+                        '99d8f089ee694956994b3d2bcf3fc19c',
+                        'ac2c8e83dad74ad29ae3441cdce551e9',
+                        '76779c15d4c74f758bd32f1edd0b53d0',
+                        '09a7e3be51594fd89cb1c50846fb030c',
+                        '38f0ef89e1fc4cc7a85feabf7a7c3bc6',
+                        '21c96887d1d44b448e5ab6d0d895e92c',
+                        'f7d2621199c445adb2a0eb3f71ad8d53',
+                        'c935e04dbda84ebe94baa7523ee2942d',
+                        '31ad278eb6e44fbd96b226a603a8848f',
+                        'c45796b1387342ff90d989b8ba584c49',
+                        '1a4312bce96741e398601c0de5945952',
+                        'f4da5b41f7b74e4fb777f7826a6e4b34',
+                        '6d10a991e8684c259110325777116b0e',
+                        '5f46e440f9ab492c886d12890a1dd8d6',
+                        '862a817639954e73aa979450c03d9546',
+                        '7406dfa39241468b8790d5237242652e',
+                        '718d96f7c6934349a1dd326800ae07b2',
+                        '527cb9cc40a14d8aace86776d99ab46a',
+                        '68d062f8b8324812b2440cd324596bf0',
+                        '662b913f1be645f0b842a6c0c3c00818',
+                        'f866e3ed8201422faebc3bffb7b4f7a6',
+                        '81b7b087fb604f688130b68a01a9429f',
+                        '82bbdf3ec21d4d3e9fcc403d0d666b44',
+                        'ad9d24c75a4b41e4a111cdb3ab4e8e94',
+                        '0bd55e40815b4b5aa2dda8a9226a6312',
+                        '3bc8492e303743158b1ed7a18ad1a5af',
+                        'ee8676cfa2144e0dadb875359ab70404',
+                        '8a5e6c065d8f46b38a9f94d6a8cadd4d',
+                        '6c5815e455e440b09cc65740232c4b06',
+                        '9c8787ee654347428b9f18f75abcf899',
+                        'a4d8b1806c584eeaacfb7432822c624b',
+                        '8fbd9f056836453cb087426a5b730434',
+                        '0d53a154e0f0439ea793f16882903ade',
+                        'af0d212bfb794aa5a4e6df7aaac22823',
+                        'e10edf46bde04120af7626a1b0980180',
+                        'e09094fac1ef42ac89bae7938ea6634c',
+                        '1555f573dec143e5bd6e4f7464288b2e',
+                        'b783b339c2ab42b2a73b68079d9ebf42',
+                        '9014e6fe57084934add7a1b900fe75d4',
+                        '07afbd92d6354205af1c395caa36996f',
+                        '3d03457fa5444a0e9552bab62d7ba205',
+                        '577531fccc1843a3ba78c6c854998f37',
+                        'bb5e5aa2ea9a44f2aac04643697d382b',
+                        '854e73c22fd84d18a1616b062f20a364',
+                        '1fc06b5793c2489fbdcf717949a769b4',
+                        'ae30ef10e9f44df5b7efb78c2ae0e01d',
+                        '5f60ab4f1b784cc2ab4e00f7931ff8d8',
+                        '195355003a3445d391bbd6b557a8310a',
+                        'b0cd1c1201cc42429b7f701e5b78652c',
+                        'c95744d810104baabfb183c2ab5f72ec',
+                        '1ad4fd7be9b340b98e86f54b3c72d02d',
+                        'c130556c33be43ce89f279d22af2789b',
+                        '7c37a25d938e4af0ac0cd11e381666aa',
+                        'bed2d6741db94eb5a53a4f3977c9c4a7',
+                        '4ca8db1ea34c4ecb9f9ad1a95ddec592',
+                        'ef8fc095af1d40f8bc986c6bb618390d',
+                        'cce4c7034aa842a18030ef2ba1a15010',
+                        '2ef5f50e607c4293b9354804553a59b4',
+                        '7173149ed0bb499eb2a02ca0f5b3e7ab',
+                        'fd03da95e2274f648fb26a11c03624a8',
+                        '83f524d268f74a1c9f2657d35c592a4f',
+                        '4780c7b7e63542bba71e1b0759a38ff8',
+                        '52994e3e73314c4ca2cf5a91310d8180',
+                        'd98126f072c14e4794b0aad3291063e6',
+                        'fd85ecb7f040479cb2909a34e2a8d636',
+                        'e064ef2211054211ae7e71d2866af429',
+                        '91a18588f9aa4076acb7634f78670ecd',
+                        'f4f185c0cfba4a538102a39fe3ee22ef',
+                        'f7176302e3a54127941c13411b21bb2a',
+                        'e78cc9af48b749c9b306f3e613cc481e',
+                        '2eca6d2dbe144d5bab9a50ac66afee56',
+                        '18a60770d396435085c14888f9a508e8',
+                        '6e5b3bc74e3646bab720daf2d6d0bc54',
+                        '9c3df83fd8cc489eadc02b3641eba3b9',
+                        '2949a92e521b4b3ca0a345c74c8aed34',
+                        '2c74f91b7e1e4fd19da540ad46407d5e',
+                        '4adb518c6598411d8d58cb7e80bd4740',
                         'ba6a34389c71405f98f9fbd889c796a4',
                         '0abe36b5a7434238b6b67f1a62bdbf25',
                         'b96387584f88468da6b2fe76c764f791',
@@ -196,7 +465,13 @@ declare global {
                         'a219821a7bd141c6bfe14d133b6e607c',
                         'aca224e5094848a9bb15609122165c3c',
                     ]
-                    sys_element_mapping: ['51cde3264e9a408d9527644626428ffb']
+                    sys_element_mapping: [
+                        '994eac7c42524c79967747be5be63eec',
+                        '81286816a0814fbfb9347ca253cbfe57',
+                        'a5c971243e3242a4a56f2631e13c6015',
+                        'c59cbad9ddd14a5c94a52ea0dde61ef2',
+                        '51cde3264e9a408d9527644626428ffb',
+                    ]
                 }
             }
         }
