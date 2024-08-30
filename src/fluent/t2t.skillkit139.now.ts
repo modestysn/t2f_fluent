@@ -19,10 +19,10 @@ atf.catalog_SP.setCatalogItemQuantity_SP({
 quantity: '2'
 })
 
-// const outputOfAddItemToShoppingCart = 
-atf.catalog_SP.addItemToShoppingCart_SP({
-assert: 'form_submitted_to_server' // 'form_submitted_to_server' | 'form_submission_cancelled_in_browser'
-})
+// const outputOfAddItemToShoppingCart = // EDIT: unised var and wrong API
+// atf.catalog_SP.addItemToShoppingCart_SP({
+// assert: 'form_submitted_to_server' // 'form_submitted_to_server' | 'form_submission_cancelled_in_browser'
+// })
 // const outputOfSubmitOrderGuide = // EDIT: unused variables
 atf.catalog_SP.submitOrderGuide_SP({
 assert: 'form_submitted_to_server' // 'form_submitted_to_server' | 'form_submission_cancelled_in_browser'
