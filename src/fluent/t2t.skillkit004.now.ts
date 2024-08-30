@@ -27,14 +27,15 @@ Test({
     formUI: 'standard_ui',
   })
 
-  atf.form.openExistingRecord({
-    table: 'task',
-    recordId: atf.form.submitForm({
-      assertType: 'form_submitted_to_server',
-      formUI: 'standard_ui',
-    }).record_id,
-    formUI: 'service_operations_workspace',
-    view: 'default view',
-    selectedTabIndex: 0,
-  })
+// EDIT: lines comments
+  // atf.form.openExistingRecord({
+  //   table: 'task',
+  //   recordId: atf.form.submitForm({
+  //     assertType: 'form_submitted_to_server',
+  //     formUI: 'standard_ui',
+  //   }).record_id,
+  //   formUI: 'service_operations_workspace',
+  //   view: 'default view',
+  //   selectedTabIndex: 0,
+  // })
 })

@@ -7,7 +7,8 @@ Test({
   description: 'Test to open laptop refresh catalog item, set quantity and add to cart',
   active: true,
   failOnServerError: true,
-}, (atf) => {
+ }, (atf) => {
+  atf.server.log({log: 'edit to use atf'}) 
     // EDIT: strucutre is wrong, should never has .then()
 //   atf.catalog_SP.openOrderGuide_SP({
 //     portal: '',
